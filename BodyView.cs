@@ -185,7 +185,7 @@
 
         /// <summary>
         /// When the new information from the sensor arrives, it updates the bodies in arraylist.
-        /// It is called everytime a new information arrives from the Kinect Sensor
+        /// It is called everytime when a new information arrives from the Kinect Sensor
         /// </summary>
         /// <param name="bodies">Represents the arraylist of the bodies to be updated</param>
         public void UpdateBodyFrame(Body[] bodies)

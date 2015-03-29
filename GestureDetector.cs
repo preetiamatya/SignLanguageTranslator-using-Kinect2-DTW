@@ -19,8 +19,9 @@ namespace SignLanguageTranslatorDTW
     using System.Threading;
 
     /// <summary>
-    /// Gesture Detector class which listens for VisualGestureBuilderFrame events from the service
-    /// and updates the associated GestureResultView object with the latest results for te 'Seated' gesture
+    /// This class gets the frame from Kinect input using VGB API.
+    /// The gesture name from VGB application are read as gestures in this class.
+    /// Also, this class updates the gestures received from VGB.   
     /// </summary>
     public class GestureDetector : IDisposable
     {
