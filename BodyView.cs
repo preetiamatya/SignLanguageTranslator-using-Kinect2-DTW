@@ -97,7 +97,7 @@
         private List<Pen> bodyColors;
 
         /// <summary>
-        /// Initializes a new instance of the KinectBodyView class
+        /// Initializes a new instance of the BodyView class
         /// </summary>
         /// <param name="kinectSensor">Active instance of the KinectSensor</param>
         public BodyView(KinectSensor kinectSensor)

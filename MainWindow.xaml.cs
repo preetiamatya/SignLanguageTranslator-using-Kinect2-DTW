@@ -1,8 +1,8 @@
 ﻿///---------------------------------------------------------------------------------------------------
 /// <Description>
-/// This program is built using KinectSDK2.0
-/// It can track upto six people but only one person's body joints are used in this application
-/// The gestures which are recognized are displayed in the application as the form of the text
+/// This program is built using Kinect SDK 2.0.
+/// It can track upto six people but only one person's body joints are used in this application.
+/// The gestures which are recognized are displayed in the application as the form of the text.
 /// </Description>
 ///----------------------------------------------------------------------------------------------------
 

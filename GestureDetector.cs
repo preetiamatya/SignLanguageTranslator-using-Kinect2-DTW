@@ -1,7 +1,6 @@
 ﻿///---------------------------------------------------------------------------------------------------
 /// <Description>
-/// This program is built using KinectSDK2.0
-/// Standstill position is used as Boundary condition to get the SignLanguage gesture
+/// Standstill position is used as Boundary condition to get the Sign Language gesture.
 /// </Description>
 ///----------------------------------------------------------------------------------------------------
 

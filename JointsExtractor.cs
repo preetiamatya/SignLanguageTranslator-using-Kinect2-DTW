@@ -1,6 +1,6 @@
 ﻿//---------------------------------------------------------------------------------------------------
 // <Description>
-//This program is built by refering KinectSDK Dynamic time warping(DTW) Gesture Recognition 
+//This program is built by refering Kinect SDK Dynamic time warping(DTW) Gesture Recognition 
 // This program is responsible for Normalization of body Joints coordinates
 // </Description>
 //-----------------
